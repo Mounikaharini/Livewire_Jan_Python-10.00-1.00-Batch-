@@ -1,0 +1,22 @@
+Strings
+1.	To check the string how many times the character is printed in the string
+Example:  String s=”success”
+Ch=’s’
+Output :
+No of s present is=3
+
+2.	To count no of vowels in the given string and display it.
+Example :String s=”computer”
+No. of vowels=3
+The vowels are=o u e
+3.	Write a program to get input in a string ,convert
+into uppercase and print separate lines
+example : India is my country
+output:
+INDIA
+IS
+MY
+COUNTRY
+4.	Define a function to accept string input and print it reverse and to find no.of.vowels in the string
+EX:beautiful      o/p lufituaeb  no.voewls=5
+Write a program to input a sentence and print the number of characters found in the longest word of the given sentence. For example, if S=“India is my country” then the output should be: Longest word – country
